@@ -4,15 +4,29 @@
 2. MARCO TEÓRICO
 
 
-3. EXPLICACI{ON DEL PROCEDIMIENTO
+3. INFORMACI{ON GENERAL
 
 
-4. RESPUESTA A INTERROGANTES
+4. MATERIALES Y EQUIPOS REQUERIDOS
 
-5. VIDEO
+![imagen](https://user-images.githubusercontent.com/85263529/122841136-2965f180-d2c1-11eb-8b83-9749b8218e0b.png)
 
-6. CONCLUSIONES
+5. EXPLICACIÓN DEL PROCEDIMIENTO
 
-7. BIBLIOGRAFÍA
+ 5.1 Implemente el circuito que se presenta en la figura 3.1
+ 
+ ![imagen](https://user-images.githubusercontent.com/85263529/122841366-5f0ada80-d2c1-11eb-91e4-663185967e33.png)
+
+
+6. RESPUESTA A INTERROGANTES
+
+
+7. VIDEO
+
+
+8. CONCLUSIONES
+
+
+9. BIBLIOGRAFÍA
 
 Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning. Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
