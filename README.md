@@ -6,6 +6,9 @@
 
 3. INFORMACI{ON GENERAL
 
+El análisis de nodos es una técnica que hace uso de la LCK para expresar corrientes en función de voltajes.
+
+Un nodo es el punto de unión de dos o más elementos.
 
 4. MATERIALES Y EQUIPOS REQUERIDOS
 
