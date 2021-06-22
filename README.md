@@ -1,5 +1,21 @@
 1. OBJETIVOS
 
+•	Comprobar experimentalmente el análisis de nodos.
+
+
+•	Determinar la tensión de uno o más nodos por medio del método del análisis de nodos 
+
+
+•	Realizar el circuito indicado y medir los voltajes en cada uno de los nodos formados.
+
+
+•	Comparar el valor de cada medición de voltaje obtenidos en cada nodo
+
+
+•	Usar un voltímetro para medir resistencias e inductores con fuente de voltaje alterno.
+
+
+
 
 2. MARCO TEÓRICO
 
@@ -12,6 +28,16 @@
 El análisis de nodos es una técnica que hace uso de la LCK para expresar corrientes en función de voltajes.
 
 Un nodo es el punto de unión de dos o más elementos.
+
+En análisis de circuitos eléctricos, el análisis de nodos, o método de tensiones nodales es un método para determinar la tensión
+
+(diferencia de potencial) de uno o más nodos.
+
+El método de los voltajes de nodos consiste en determinar cada voltaje que se encuentran en los nodos y calcular la corriente en las ramas.
+
+Esta se fundamenta en la ley de Kirchhoff de corrientes.
+
+
 
 4. MATERIALES Y EQUIPOS REQUERIDOS
 
