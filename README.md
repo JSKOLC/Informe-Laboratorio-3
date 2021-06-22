@@ -23,13 +23,15 @@ Un nodo es el punto de unión de dos o más elementos.
  
  ![imagen](https://user-images.githubusercontent.com/85263529/122841366-5f0ada80-d2c1-11eb-91e4-663185967e33.png)
  
+ 5.2 Circuito simulado en TINKERCARD
+ 
  ![image](https://user-images.githubusercontent.com/85263529/122842635-6206ca80-d2c3-11eb-9281-911fd883420e.png)
 
-
+ 5.3 Resultados Simulados
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/122842437-02a8ba80-d2c3-11eb-8d8a-0a830584c3a0.png)
 
 6. RESPUESTA A INTERROGANTES
-
-![image](https://user-images.githubusercontent.com/85263529/122842437-02a8ba80-d2c3-11eb-8d8a-0a830584c3a0.png)
 
 
 
