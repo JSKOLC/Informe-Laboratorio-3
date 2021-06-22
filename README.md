@@ -3,6 +3,9 @@
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/85263529/122842414-f6bcf880-d2c2-11eb-891f-84a07f564c16.png)
+
+
 
 3. INFORMACI{ON GENERAL
 
@@ -19,9 +22,15 @@ Un nodo es el punto de unión de dos o más elementos.
  5.1 Implemente el circuito que se presenta en la figura 3.1
  
  ![imagen](https://user-images.githubusercontent.com/85263529/122841366-5f0ada80-d2c1-11eb-91e4-663185967e33.png)
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/122842635-6206ca80-d2c3-11eb-9281-911fd883420e.png)
+
 
 
 6. RESPUESTA A INTERROGANTES
+
+![image](https://user-images.githubusercontent.com/85263529/122842437-02a8ba80-d2c3-11eb-8d8a-0a830584c3a0.png)
+
 
 
 7. VIDEO
