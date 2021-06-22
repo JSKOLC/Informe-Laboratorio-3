@@ -59,6 +59,8 @@ Esta se fundamenta en la ley de Kirchhoff de corrientes.
 
 6. RESPUESTA A INTERROGANTES
 
+El análisis de nodos consiste en escoger los voltajes de nodo como variables del circuito. Estos voltajes de especifican con respecto a un punto común en el circuito. Uno de los nodos se elige como referencia, y los voltajes de nodo restantes se definen con respecto a dicho nodo. A menudo, este nodo es el que tiene conectadas el mayor número de ramas. 
+
 
 
 7. VIDEO
