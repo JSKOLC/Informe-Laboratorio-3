@@ -51,11 +51,13 @@ Esta se fundamenta en la ley de Kirchhoff de corrientes.
  
  5.2 Circuito simulado en TINKERCARD
  
- ![image](https://user-images.githubusercontent.com/85263529/122842635-6206ca80-d2c3-11eb-9281-911fd883420e.png)
+![image](https://user-images.githubusercontent.com/85263529/122866387-7495f980-d2ed-11eb-97f1-d4d02669468a.png)
 
  5.3 Resultados Simulados
  
- ![image](https://user-images.githubusercontent.com/85263529/122842437-02a8ba80-d2c3-11eb-8d8a-0a830584c3a0.png)
+![image](https://user-images.githubusercontent.com/85263529/122866302-57612b00-d2ed-11eb-8e62-b778f03be338.png)
+
+ 
 
 6. RESPUESTA A INTERROGANTES
 
