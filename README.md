@@ -66,6 +66,17 @@ Esta se fundamenta en la ley de Kirchhoff de corrientes.
 
 8. CONCLUSIONES
 
+•	Se concluye que un circuito de N nodos se escribe una ecuación linealmente independiente de la ley de Kirchhoff de corriente  
+para cada uno de los   nodos distintos al nodo de referencia, y la solución de este conjunto de ecuaciones simultáneas determina los n-1  voltajes de nodos desconocidos.
+
+
+•	El método de análisis de nodos parece es más sencillo de crear, manejar y resolver un sistema de ecuaciones independientes con voltajes y corrientes desconocidos.
+
+
+•	Este método está basado en la ley de corrientes de Kirchhoff de corrientes la cual establece que la corriente entrante a un nodo es igual a la suma de las corrientes salientes.
+
+
+
 
 9. BIBLIOGRAFÍA
 
