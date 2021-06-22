@@ -57,7 +57,23 @@ Esta se fundamenta en la ley de Kirchhoff de corrientes.
  
 ![image](https://user-images.githubusercontent.com/85263529/122866302-57612b00-d2ed-11eb-8e62-b778f03be338.png)
 
+ 5.4 Resolucion del ejercicio propuesto
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/122871519-c4c48a00-d2f4-11eb-992e-14580e05f361.png)
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/122871761-179e4180-d2f5-11eb-82cb-484dfb2f1a1d.png)
  
+ ![imagen](https://user-images.githubusercontent.com/85263529/122871793-24229a00-d2f5-11eb-8953-5b6c5626900a.png)
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/122871888-461c1c80-d2f5-11eb-8891-181e8369d9bf.png)
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/122871927-53390b80-d2f5-11eb-8396-35ca0e5f7fd0.png)
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/122871999-6d72e980-d2f5-11eb-8506-a33cbe9a12c4.png)
+
+ 5.5 Resultados obtenidos
+ 
+ ![imagen](https://user-images.githubusercontent.com/85263529/122872750-7f08c100-d2f6-11eb-9700-b64f45f19122.png)
 
 6. RESPUESTA A INTERROGANTES
 
